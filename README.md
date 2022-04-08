@@ -10,7 +10,7 @@
 
 ## 开发步骤：
 
-1. 下载 `Auto.js` 安装包，目前官网提供的是 `Auto.js Pro`，是收费的，45 块钱买断制，还是良心的，建议大家购买。不过这里也分享一下免费版本(非破解版，是开始收费前的免费版，网上听说很多版本是有毒的，这个是我以身试毒后确认无毒的，大家可放心使用)—— 链接: https://pan.baidu.com/s/1zBTij7imoLCKf1bm7HtY6Q 提取码: n9jc 或通过 github 下载 [https://github.com/qulingyuan/robVeg/tree/master/assets/commonRelease-4.1.0%20Alpha2.apk]
+1. 下载 `Auto.js` 安装包，目前官网提供的是 `Auto.js Pro`，是收费的，45 块钱买断制，还是良心的，建议大家购买。不过这里也分享一下免费版本(非破解版，是开始收费前的免费版，网上听说很多版本是有毒的，这个是我以身试毒后确认无毒的，大家可放心使用)—— 链接: https://pan.baidu.com/s/1zBTij7imoLCKf1bm7HtY6Q 提取码: n9jc 或通过 github 下载 [https://github.com/qulingyuan/robVeg/tree/master/assets/commonRelease-4.1.0%20Alpha2.apk](https://github.com/qulingyuan/robVeg/tree/master/assets/commonRelease-4.1.0%20Alpha2.apk)
 
 ```
 Name: commonRelease-4.1.0 Alpha2.apk
