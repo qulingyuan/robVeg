@@ -10,7 +10,17 @@
 
 ## 开发步骤：
 
-1. 下载 `Auto.js` 安装包，目前官网提供的是 `Auto.js Pro`，是收费的，45 块钱买断制，还是良心的，建议大家购买。不过这里也分享一下免费版本(非破解版，是开始收费前的免费版，网上听说很多版本是有毒的，这个是我以身试毒后确认无毒的，大家可放心使用)—— 链接: https://pan.baidu.com/s/1zBTij7imoLCKf1bm7HtY6Q 提取码: n9jc --来自百度网盘超级会员 v3 的分享
+1. 下载 `Auto.js` 安装包，目前官网提供的是 `Auto.js Pro`，是收费的，45 块钱买断制，还是良心的，建议大家购买。不过这里也分享一下免费版本(非破解版，是开始收费前的免费版，网上听说很多版本是有毒的，这个是我以身试毒后确认无毒的，大家可放心使用)—— 链接: https://pan.baidu.com/s/1zBTij7imoLCKf1bm7HtY6Q 提取码: n9jc 或通过 github 下载 [https://github.com/qulingyuan/robVeg/tree/master/assets/commonRelease-4.1.0%20Alpha2.apk]
+
+```
+Name: commonRelease-4.1.0 Alpha2.apk
+Size: 14582300 bytes (13 MiB)
+CRC32: 3A990E03
+CRC64: EEB9E7ABDD3B7098
+SHA256: 948a87427f460b046b066fd4fd5599e34d33abe7aaaf6ca56904400996eecf11
+SHA1: c54e6d11c899f39cfd388ee12f837e1613d87a7d
+BLAKE2sp: adcfab5219b9bbcd7b715bf1d4bab4e15078b1fbf1098a3e872fcfae285bfe00
+```
 
 2. 安装软件后，开启应用的**无障碍**和**悬浮窗**功能。
 
